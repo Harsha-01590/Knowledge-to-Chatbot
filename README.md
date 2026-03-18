@@ -205,5 +205,3 @@ Mercury is a chemical element with atomic number 80. It is a liquid metal at roo
 
 Sri Harsha
 
-
-This project is for educational and research purposes.
